@@ -11,4 +11,4 @@ I dream of becoming a cool webdeveloper and webdesigner and I am here :octocat: 
 **[Instagram](https://www.instagram.com/shushullja/), [Facebook](https://www.facebook.com/profile.php?id=100001182892563), [Linkedin](https://www.linkedin.com/in/oksanashulha/)**
 **Let's be in touch!**
 
-![Oksana's github stats](https://github-readme-stats.vercel.app/api?username=oksanashulha&show_icons=true&hide_border=true&theme=jolly)
+![Oksana's github stats](https://github-readme-stats.vercel.app/api?username=oksanashulha&show_icons=true&hide_border=true&theme=synthwave)
