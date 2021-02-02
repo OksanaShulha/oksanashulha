@@ -2,7 +2,7 @@
 
 ![image](https://media.istockphoto.com/vectors/vector-flat-style-illustration-of-a-young-beautiful-woman-with-laptop-vector-id1174426173?k=6&m=1174426173&s=612x612&w=0&h=c4ADzc8gKCqvY4IiuCouvhGH59ySuRG_anqwCzAWvQ0=)
 
-I dream of becoming a cool webdeveloper and webdesigner, I am here :octocat: to experiment new things, create funny projects and learn programming tutorials.
+I dream of becoming a cool webdeveloper and webdesigner and I am here :octocat: to experiment new things, create funny projects and learn programming tutorials.
 
 - 🔭 I’m currently participating in HackYourFuture Belgium Coding School and I'm interested in VScode, HTML, CSS and Javascript.
 - 🌱 I’m currently learning Dutch. Besides Dutch, I speak English, Russian and Ukrainian.
