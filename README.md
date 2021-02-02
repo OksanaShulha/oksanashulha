@@ -5,7 +5,7 @@
 I dream of becoming a cool webdeveloper and webdesigner and I am here :octocat: to experiment new things, create funny projects and learn programming tutorials.
 
 - 🔭 I’m currently participating in HackYourFuture Belgium Coding School and I'm interested in ***VScode, HTML, CSS*** and ***Javascript***.
-- 🌱 I’m currently learning Dutch. Besides *Dutch*, I speak *English, Russian and Ukrainian*.
+- 🌱 I’m currently learning Dutch. Besides *Dutch*, I speak *English, Russian* and *Ukrainian*.
 - 🤔 I’m looking for help with development and with all the related program.
 - 📫 How to reach me:
 **[Instagram](https://www.instagram.com/shushullja/), [Facebook](https://www.facebook.com/profile.php?id=100001182892563), [Linkedin](https://www.linkedin.com/in/oksanashulha/)**
